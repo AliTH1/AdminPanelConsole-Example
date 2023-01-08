@@ -1,0 +1,8 @@
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\bin\Debug\AdminUser.exe.config
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\bin\Debug\AdminUser.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\bin\Debug\AdminUser.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\obj\Debug\AdminUser.csproj.AssemblyReference.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\obj\Debug\AdminUser.csproj.SuggestedBindingRedirects.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\obj\Debug\AdminUser.csproj.CoreCompileInputs.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\obj\Debug\AdminUser.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\AdminUser\AdminUser\obj\Debug\AdminUser.pdb
